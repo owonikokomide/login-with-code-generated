@@ -1,0 +1,55 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.forms {
+  padding: 2rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.forms input {
+  font-size: 1.4rem;
+  background-color: transparent;
+  border-radius: 0.5rem;
+  border: 2px dotted rgb(238, 147, 147);
+  padding: 1.3rem;
+  width: 70%;
+}
+.forms button {
+  padding: 0.7rem 2rem;
+  color: white;
+  background-color: burlywood;
+  border-radius: 0.5rem;
+  border: 1px solid burlywood;
+  font-size: 1.4rem;
+}
+
+.head {
+  color: rgb(236, 186, 126);
+  font-size: 2.5rem;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding: 2rem;
+}
+
+.container .all {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+.container .all .form {
+  width: 60%;
+  border: 2px dotted burlywood;
+  border-radius: 0.5rem;
+}
+
+button:hover {
+  background-color: rgb(236, 137, 7);
+  cursor: pointer;
+}
+
+.butt {
+  display: flex;
+  justify-content: center;
+}/*# sourceMappingURL=login.css.map */
