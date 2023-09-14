@@ -20,7 +20,7 @@
        NAME:<input type="text" name="fullname" placeholder="Enter your full name" required></br></br>
       EMAIL:<input type="email" name="email" placeholder="Enter your Email" required></br></br>
       PASSWORD: <input type="password" name="password" placeholder="Enter your password" required></br></br>
-      CONFIRM PASSWORD <input type="password" name="confirm" placeholder="Confirm your password" required></br></br>
+      CONFIRM PASSWORD:<input type="password" name="confirm" placeholder="Confirm your password" required></br></br>
       <button type="submit" name="submit">Sign Up</button>
       </form>
     </div>
