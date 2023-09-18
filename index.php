@@ -13,7 +13,7 @@
   <div class="container">
     <div class="all">
     <div class="sign_up">
-      <h1 class="head">Sign Up Here</h1>
+      <h1 class="head">Sign Up Here </h1>
     </div>
     <div class="form">
       <form action="" method="POST" class="forms">
