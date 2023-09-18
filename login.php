@@ -66,7 +66,6 @@ if($count == 3){
         echo "pin not correct";
 
       }
-   
   }
 }else{
 echo "incorrect email or password";
