@@ -17,7 +17,7 @@
     </div>
     <div class="form">
       <form action="" method="POST" class="forms">
-       NAME:<input type="text" name="fullname" placeholder="Enter your full name" required></br></br>
+       NAME:<input type="text" name="fullname"  placeholder="Enter your full name" required></br></br>
       EMAIL:<input type="email" name="email" placeholder="Enter your Email" required></br></br>
       PASSWORD: <input type="password" name="password" placeholder="Enter your password" required></br></br>
       CONFIRM PASSWORD:<input type="password" name="confirm" placeholder="Confirm your password" required></br></br>
