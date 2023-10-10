@@ -15,7 +15,7 @@
     <div class="sign_up">
       <h1 class="head">Sign Up Here </h1>
     </div>
-    <div class="form">
+    <div class="form"> 
       <form action="" method="POST" class="forms">
        NAME:<input type="text" name="fullname"  placeholder="Enter your full name" required></br></br>
       EMAIL:<input type="email" name="email" placeholder="Enter your Email" required></br></br>
