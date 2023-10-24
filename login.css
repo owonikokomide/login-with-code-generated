@@ -43,7 +43,6 @@
   border: 2px dotted burlywood;
   border-radius: 0.5rem;
 }
-
 button:hover {
   background-color: rgb(236, 137, 7);
   cursor: pointer;
