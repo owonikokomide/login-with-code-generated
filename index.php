@@ -34,7 +34,6 @@ if(isset($_POST['submit'])){
   $password = $_POST['password'];
   $confirm = $_POST['confirm'];
   $pin = rand(1111,9999);
-
   if($password !== $confirm){
    echo "<script>alert('password doesnot match with confirm password')</script>";
   }else{
