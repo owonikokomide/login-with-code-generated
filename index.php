@@ -1,6 +1,6 @@
 <?php session_start(); ?> 
 <?php include('config.php'); ?>
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="en">  
 <head>
   <link rel="stylesheet" href="login.css"> 
