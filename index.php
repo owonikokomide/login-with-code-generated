@@ -1,7 +1,7 @@
 <?php session_start(); ?> 
 <?php include('config.php'); ?> 
 <!DOCTYPE html> 
-<html lang="en" >     
+<html lang="en" >      
 <head>
   <link rel="stylesheet" href="login.css"> 
   <meta charset="UTF-8">
