@@ -9,7 +9,7 @@
   <title>sign up</title>
 </head> 
 <body> 
-  <div class="container">  
+  <div class="container">   
     <div class="all">
     <div class="sign_up">
       <h1 class="head">Sign Up Here </h1>
