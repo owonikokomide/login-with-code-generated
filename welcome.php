@@ -11,7 +11,7 @@
   <title>Welcome</title>
 </head>
 <body>  
-  <div class="container">
+  <div class="container"> 
     <div class="all">
       <?php
 echo "<marquee scrollamount='15' behavior='alternate' style='color:green';> <h1>Congratulations, " . $_SESSION['fullname'], " Welcome To Your Dashboard</h1></marquee>";
